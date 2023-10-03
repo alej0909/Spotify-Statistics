@@ -1,0 +1,12 @@
+#boton {
+    margin-top: 5px;
+    border: none;
+    padding: 14px 40px 15px 40px;
+    transition: padding 0.25s;
+    vertical-align: center;
+}
+#boton:hover {
+    opacity: 0.7;
+    padding: 19px 45px 20px 45px ;
+    background-color: blue;
+}
